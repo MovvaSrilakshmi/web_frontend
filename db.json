@@ -1,0 +1,70 @@
+{"books":[
+  {
+  "id":1,
+  "name":"Dave Davista",
+  "idno": 785632,
+  "designation":"Bussiness Executive",
+  "pay": 7898.89,
+  "noofdaysworked": 5,
+  "benefits": 4.67,
+  "ssn": 123456789,
+  "taxes" : 5.7
+
+},
+{
+  "id":2,
+  "name":"Jhon Wick",
+  "idno": 895645,
+  "designation":"Marketing manager",
+  "pay": 9500.00,
+  "noofdaysworked": 5,
+  "benefits": 9.67,
+  "ssn": 895494569,
+  "taxes" : 3.2
+},
+{
+  "id":3,
+  "name":"Luke Skywalker",
+  "idno": 985612,
+  "designation":"Industrial Engineer",
+  "pay": 8990.80,
+  "noofdaysworked": 4,
+  "benefits": 47.67,
+  "ssn": 894236579,
+  "taxes" : 6.0
+},
+{
+  "id":4,
+  "name":"Simons Andy",
+  "idno": 984532,
+  "designation":"Design specialist",
+  "pay": 20360.00,
+  "noofdaysworked": 5,
+  "benefits": 0.67,
+  "ssn": 798541236,
+  "taxes" : 10.7
+},
+{
+  "id":5,
+  "name":"jaclyne tails",
+  "idno": 265478,
+  "designation":"CEO",
+  "pay": 100000.00,
+  "noofdaysworked": 7,
+  "benefits": 45.87,
+  "ssn": 875612359,
+  "taxes" : 55.7
+},
+{
+  "id":6,
+  "name":"Miller adam",
+  "idno": 897945,
+  "designation":"Intern",
+  "pay": 700.00,
+  "noofdaysworked": 5,
+  "benefits": 0.00,
+  "ssn": 658795463,
+  "taxes" : 0.6
+}
+
+]}
